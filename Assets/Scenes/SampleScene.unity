@@ -6149,7 +6149,7 @@ MonoBehaviour:
   moveForce: 360
   jumpForce: 700
   gravity: 30
-  maxVerticalForce: 550
+  terminalVelocity: 550
   ground: {fileID: 748183332}
   groundLayer:
     serializedVersion: 2
